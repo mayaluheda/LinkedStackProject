@@ -4,4 +4,4 @@ PURPOSE OF PROJECT: To implement Linked Stacks to check if a word is a palindrom
 VERSION or DATE: Fall '22
 HOW TO START THIS PROJECT: Open files: LinkedStack.java, LinkedStackDriver.java, PalindromeChecker.java
 AUTHORS: Maya Lu-Heda
-USER INSTRUCTIONS: 
+USER INSTRUCTIONS: run progam, input a string as a command-line argument to check for the palindrome property
