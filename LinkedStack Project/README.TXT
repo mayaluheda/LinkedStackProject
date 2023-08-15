@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Linked Stack Project- Palindrome Checker
+PURPOSE OF PROJECT: To implement Linked Stacks to check if a word is a palindrome
+VERSION or DATE: Fall '22
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Maya Lu-Heda
 USER INSTRUCTIONS:
