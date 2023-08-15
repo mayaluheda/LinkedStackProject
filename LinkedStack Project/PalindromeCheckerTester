@@ -1,0 +1,24 @@
+Command-line arguments:
+is racecar a palindrome? true
+Keyboard input:
+madam
+is madam a palindrome? true
+dewed
+is dewed a palindrome? true
+DewEd
+is DewEd a palindrome? false
+poordanisinadroop
+is poordanisinadroop a palindrome? true
+PoorDanIsInADroop
+is PoorDanIsInADroop a palindrome? false
+aha
+is aha a palindrome? true
+levEL
+is levEL a palindrome? false
+cIVic
+is cIVic a palindrome? false
+tacocat
+is tacocat a palindrome? true
+tACoCAt
+is tACoCAt a palindrome? true
+q

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PalindromeChecker
+comment0.text=\n\ Used\ to\ determine\ if\ a\ word\ is\ palindrome\n\n\ @author\ Maya\ Lu-Heda\n\ @version\ 10-29-2022\n
+comment1.params=inputString
+comment1.target=PalindromeChecker(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PalindromeChecker\n
+comment2.params=
+comment2.target=boolean\ isPalindrome()
+comment2.text=\n\ predicate\ method\ that\ returns\ T/F\ whether\ a\ palindrome\ or\ not.\n\ @\ return\ T/F\ whether\ a\ palindrome\ or\ not\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ The\ main\ method\ for\ testing\n\ @param\ args\ the\ command-line\ arguments\n
+numComments=4
